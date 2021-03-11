@@ -3,16 +3,16 @@ Introdução
 
 ### Videoaulas
 
-- [Aula 1 - introdução](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [[Aula 1] Introdução](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Exercícios recomendados
+### Exercícios
 
 - Exercícios de fixação
-    - [[Atcoder] Mediana](https://atcoder.jp/contests/abc127/tasks/abc127_f)
+    - [[Mediana] Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
 - Exercícios intermediários
-    - [[Szkopuł] Min queue](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
+    - [[Min queue] Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
 - Exercícios difíceis
-    - [[Hackercup] Min queue](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
+    - [[Min queue] Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
 
 ### Material extra
 
