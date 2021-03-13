@@ -3,7 +3,7 @@ Introdução
 
 ### Videoaulas
 
-- [[Aula 1] Introdução](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [[Aula 1] Introdução](https://youtu.be/lFghsipaZhc)
 
 ### Exercícios
 
