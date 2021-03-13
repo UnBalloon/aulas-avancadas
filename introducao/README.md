@@ -19,6 +19,7 @@ Introdução
     - [[Set] Roadwork](https://atcoder.jp/contests/abc128/tasks/abc128_e)
 - Exercícios difíceis
     - [[Min queue] Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
+    - [[Set] Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
 
 ### Material extra
 
