@@ -3,7 +3,7 @@ Binary Lifting
 
 ### Videoaulas
 
-- [[Aula 2] Parte 1]()
+- [[Aula 2] Parte 1](https://www.youtube.com/watch?v=HS18OQw3yO8)
     - Exponenciação rápida
     - Sparse table
 - [[Aula 2] Parte 2]()
