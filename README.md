@@ -11,7 +11,7 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 
 1. [Introdução](introducao/README.md)
     - Estruturas simples e motivação
-1. Binary lifting
+1. [Binary lifting](binary-lifting/README.md)
     - Exponenciação rápida
     - Sparse table
     - LCA
