@@ -13,7 +13,7 @@ Introdução
     - [[Set] Multicolored Cars](https://codeforces.com/problemset/problem/818/D)
 - Exercícios intermediários
     - [[Mediana (parecido)] NCPC2017 problema G](https://codeforces.com/gym/101572/attachments)
-    - [[GCD queue]](https://codeforces.com/gym/102788/problem/D)
+    - [[GCD queue] 38 parrots](https://codeforces.com/gym/102788/problem/D)
     - [[Min queue] Friends and Subsequences](https://codeforces.com/contest/689/problem/D)
     - [[Min queue] Trous de loup](https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/?key=statement)
     - [[Set] Nastya is Buying Lunch](https://codeforces.com/contest/1136/problem/D)
