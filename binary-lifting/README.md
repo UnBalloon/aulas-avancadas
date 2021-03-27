@@ -28,12 +28,16 @@ Binary Lifting
 ### Exercícios Parte 2
 
 - Exercícios de fixação
+    - [[Binary Lifting/Árvore] Company Queries I](https://cses.fi/problemset/task/1687)
+    - [[LCA] Company Queries II](https://cses.fi/problemset/task/1688)
+    - [[Binary Lifting/Árvore] Fools and Roads](https://codeforces.com/contest/191/problem/C)
 - Exercícios intermediários
+    - [[Binary Lifting/Árvore] A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E)
+    - [[Binary Lifting/Grafo funcional] Analysis of Pathes in Functional Graph](https://codeforces.com/contest/702/problem/E)
+    - [[DFS] Denouncing Mafia (Subregional 2019)](https://codeforces.com/gym/102346/problem/D)
 - Exercícios difíceis
-    <!-- - [[Binary Lifting/Árvore] Analysis of Pathes in Functional Graph](https://codeforces.com/contest/702/problem/E)
     - [[Binary Lifting/Árvore] Party Company (Subregional 2020)](https://codeforces.com/gym/102861/problem/E)
-    - [[Binary Lifting/Árvore] Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E) -->
-
+    - [[Binary Lifting/Árvore] Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)
 
 ### Material extra
 
