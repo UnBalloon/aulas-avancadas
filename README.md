@@ -19,4 +19,6 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - Soma e máximo em intervalo
     - Intervalo de soma máxima
     - Lazy propagation
-1. (...) Novidades em breve!
+1. DP
+1. Geometria
+1. Teoria dos números
