@@ -6,7 +6,7 @@ Binary Lifting
 - [[Aula 2] Parte 1](https://www.youtube.com/watch?v=HS18OQw3yO8)
     - Exponenciação rápida
     - Sparse table
-- [[Aula 2] Parte 2]()
+- [[Aula 2] Parte 2](https://www.youtube.com/watch?v=ln6XGYnS_DQ)
     - Binary Lifting na árvore
     - Euler tour/LCA
 
