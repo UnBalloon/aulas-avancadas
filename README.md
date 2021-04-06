@@ -15,8 +15,8 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - Exponenciação rápida
     - Sparse table
     - LCA
-1. Segment Tree
-    - Soma e máximo em intervalo
+1. [Segment Tree](segment-tree/README.md)
+    - Soma e mínimo em intervalo
     - Intervalo de soma máxima
     - Lazy propagation
 1. DP
