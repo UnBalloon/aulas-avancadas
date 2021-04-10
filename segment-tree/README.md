@@ -23,7 +23,7 @@ Segment Tree
     - [[CSES] SegTree de máximo](https://cses.fi/problemset/task/1143)
 - Exercícios difíceis
     - [[CF] Segtree de soma e máximo](https://codeforces.com/contest/920/problem/F)
-    - [[ICPC - Brazil Subregional 2020-2021] Segtree como estrutura auxiliar](https://codeforces.com/gym/102861/problem/E)
+    - [[ICPC - Brazil Subregional] Segtree como estrutura auxiliar](https://codeforces.com/gym/102861/problem/E)
 
 ### Material extra
 
