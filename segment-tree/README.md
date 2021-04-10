@@ -3,7 +3,7 @@ Segment Tree
 
 ### Videoaulas
 
-- [[Aula 3] Parte 1]()
+- [[Aula 3] Parte 1](https://www.youtube.com/watch?v=CaO84mCmVyk)
     - Soma e mínimo em intervalo
     - Intervalo de soma máxima
 - [[Aula 3] Parte 2]()
