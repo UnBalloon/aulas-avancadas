@@ -24,6 +24,7 @@ Segment Tree
 - Exercícios difíceis
     - [[CF] Segtree de soma e máximo](https://codeforces.com/contest/920/problem/F)
     - [[ICPC - Brazil Subregional] Segtree como estrutura auxiliar](https://codeforces.com/gym/102861/problem/E)
+    - [[CF] Segtree de soma máxima](https://codeforces.com/contest/1420/problem/C2)
 
 ### Material extra
 
