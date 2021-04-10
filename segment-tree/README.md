@@ -15,7 +15,7 @@ Segment Tree
 - Exercícios de fixação
     - [[CF-EDU] SegTree de soma](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A)
     - [[CF-EDU] SegTree de mínimo](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B)
-    - [[CF-EDU] Segtree de mínimo e índice](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
+    - [[CF-EDU] Segtree de mínimo e quantidade](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
     - [[Neps] SegTree de soma máxima](https://neps.academy/br/course/10/lesson/288)
 - Exercícios intermediários
     - [[CF] SegTree de OR e XOR](https://codeforces.com/contest/339/problem/D)
