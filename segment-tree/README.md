@@ -26,6 +26,12 @@ Segment Tree
     - [[ICPC - Brazil Subregional] Segtree como estrutura auxiliar](https://codeforces.com/gym/102861/problem/E)
     - [[CF] Segtree de soma máxima](https://codeforces.com/contest/1420/problem/C2)
 
+### Códigos da aula
+- [CF-EDU SegTree A](code/A.cpp)
+- [CF-EDU SegTree B](code/B.cpp)
+- [CF-EDU SegTree C](code/C.cpp)
+- [Distinct Characters Queries - Div3 D](code/590-D.cpp)
+- [Neps Banco do Faraó](code/Farao.cpp)
 ### Material extra
 
 - [[CP-algo] Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
