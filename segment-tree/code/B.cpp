@@ -12,61 +12,64 @@ const ll LLINF = 0x3f3f3f3f3f3f3f3f;
 
 // End Template //
 
-vector<ll> tree(4*MAX, LLINF), vet(MAX, LLINF); // segtree e vetor
+ll tree[4*MAX], vet[MAX];
 int N;
 
+int merge(int a, int b){
+    return min(a, b);
+}
+
 void build(int l=0, int r=N-1, int no=1){
-    if(l==r){ // caso base
+    if(l==r){
         tree[no] = vet[l];
         return;
     }
+    int mid = (l+r)/2;
+    build(l, mid, 2*no);
+    build(mid+1, r, 2*no+1);
 
-    int mid = (l + r)/2;
-    build(l, mid, 2*no); // filho da esquerda
-    build(mid+1, r, 2*no+1); // filho da direita
-
-    tree[no] = min(tree[2*no], tree[2*no+1]); // merge
+    tree[no] = merge(tree[2*no], tree[2*no+1]);
 }
 
-void update(int i, int x, int l=0, int r=N-1, int no=1){
-    if(l==r){ // caso base
+void update(int id, int x, int l=0, int r=N-1, int no=1){
+    if(l==r){
         tree[no] = x;
         return;
     }
 
-    int mid = (l + r)/2;
-    if(i<=mid) // esquerda
-        update(i, x, l, mid, 2*no);
-    else // direita
-        update(i, x, mid+1, r, 2*no+1);
+    int mid = (l+r)/2;
+    if(id<=mid)
+        update(id, x, l, mid, 2*no); // esquerda
+    else
+        update(id, x, mid+1, r, 2*no+1);
 
-    tree[no] = min(tree[2*no], tree[2*no+1]); // merge
+    tree[no] = merge(tree[2*no], tree[2*no+1]);
 }
 
 ll query(int A, int B, int l=0, int r=N-1, int no=1){
-    if(r<A or B<l) return LLINF; // 1º caso
-    if(A<=l and r<=B) return tree[no]; // 2º caso
-
+    // 1º caso
+    if(B<l or r<A) return LLINF;
+    // 2º caso
+    if(A<=l and r<=B) return tree[no];
     // 3º caso
-    int mid = (l + r)/2;
+    int mid = (l+r)/2;
 
-    ll minLeft = query(A, B, l, mid, 2*no);
-    ll minRight = query(A, B, mid+1, r, 2*no+1);
-
-    return min(minLeft, minRight);
+    return merge(query(A, B, l, mid, 2*no),
+                 query(A, B, mid+1, r, 2*no+1));
 }
+
 
 int32_t main()
 {sws;
 
-    int M, opt, id, v, l, r;
-    cin >> N >> M;
+    int m, opt, id, v, l, r;
+    cin >> N >> m;
     for(int i=0;i<N;i++)
         cin >> vet[i];
 
     build();
 
-    for(int i=0;i<M;i++){
+    for(int i=0;i<m;i++){
         cin >> opt;
         if(opt==1){ // update
             cin >> id >> v;
