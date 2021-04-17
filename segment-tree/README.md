@@ -33,7 +33,7 @@ Segment Tree
 - [Distinct Characters Queries - Div3 D](code/590-D.cpp)
 - [Neps Banco do Faraó](code/Farao.cpp)
 
-### Exercícios Parte 1
+### Exercícios Parte 2
 
 - Exercícios de fixação
     - [[NEPS] Lazy Propagation](https://neps.academy/br/course/10/lesson/289)
