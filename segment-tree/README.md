@@ -48,6 +48,11 @@ Segment Tree
     
 ### Códigos da aula 2
 
+- [NEPS Lazy](code/Lazy.cpp)
+- [AtCoder Contagem](code/Contagem.cpp)
+- [CSES Euler Tour](code/Cses.cpp)
+- [ICPC SweepLine](code/SweepLine.cpp)
+
 ### Material extra
 
 - [[NEPS] Segment Tree](https://neps.academy/br/course/10/lesson/266)
